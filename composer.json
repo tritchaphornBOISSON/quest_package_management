@@ -1,0 +1,18 @@
+{
+    "name": "tritchaphornboisson/package_management_quest",
+    "description": "quest",
+    "autoload": {
+        "psr-4": {
+            "Tritchaphornboisson\\PackageManagementQuest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tritchaphorn BOISSON",
+            "email": "tritchaphorn@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
